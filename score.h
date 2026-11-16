@@ -2,4 +2,5 @@
 #define SCORE_H
 double calcAverage(const int arr[], int n);
 int calcMax(const int arr[], int n);
+int calcMin(const int arr[], int n);
 #endif
